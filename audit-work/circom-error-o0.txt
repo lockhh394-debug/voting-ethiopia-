@@ -1,2 +1,0 @@
-[31mCould not write the output in the given path[0m
-[31mprevious errors were found[0m
