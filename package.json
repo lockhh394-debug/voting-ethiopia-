@@ -1,0 +1,7 @@
+{
+  "name": "ethiopia-chain-zk-voting-workspace",
+  "private": true,
+  "scripts": {
+    "compile": "npm --prefix audit-work run compile"
+  }
+}

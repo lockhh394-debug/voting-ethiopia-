@@ -1,0 +1,12 @@
+1,1,2,main.out
+2,2,2,main.a
+3,3,2,main.b
+4,4,2,main.s
+5,-1,1,main.m.out
+6,-1,1,main.m.c[0]
+7,-1,1,main.m.c[1]
+8,-1,1,main.m.s
+9,-1,0,main.m.mux.out[0]
+10,-1,0,main.m.mux.c[0][0]
+11,-1,0,main.m.mux.c[0][1]
+12,-1,0,main.m.mux.s
